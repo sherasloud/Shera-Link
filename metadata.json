@@ -1,0 +1,6 @@
+{
+  "name": "Shera Link - Village Starlink Internet",
+  "description": "High-speed Starlink community broadband network platform with satellite telemetry, solar microgrid monitoring, mesh hotspot vouchers, and rural digital services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
